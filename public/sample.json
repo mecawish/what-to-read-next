@@ -1,0 +1,1536 @@
+{
+    "Request": {
+       "authentication": "true",
+       "key": "p74yCWjAI2CURGePb19w",
+       "method": "review_list"
+    },
+    "shelf": {
+       "@exclusive": "true",
+       "@id": "50581000",
+       "@name": "to-read",
+       "@sortable": "true"
+    },
+    "reviews": {
+       "@start": "1",
+       "@end": "20",
+       "@total": "337",
+       "review": [
+          {
+             "id": "3413587719",
+             "book": {
+                "id": 44654627,
+                "isbn": "0525707964",
+                "isbn13": "9780525707967",
+                "text_reviews_count": 3340,
+                "uri": "kca://book/amzn1.gr.book.v1.eXPzZdvjASTNt6rz_ooD6g",
+                "title": "One of Us Is Next (One of Us Is Lying, #2)",
+                "title_without_series": "One of Us Is Next",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558455815l/44654627._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558455815l/44654627._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/44654627-one-of-us-is-next",
+                "num_pages": "377",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Delacorte Press for Young Readers",
+                "publication_day": "7",
+                "publication_year": "2020",
+                "publication_month": "1",
+                "average_rating": "4.05",
+                "ratings_count": "28848",
+                "description": "<b>The highly anticipated sequel to the New York Times bestselling thriller everyone is talking about, One of Us Is Lying! There's a new mystery to solve at Bayview High, and there's a whole new set of rules.<\/b><br /><br /><i>Come on, Bayview, you know you've missed this.<\/i><br /><br />A ton of copycat gossip apps have popped up since Simon died, but in the year since the Bayview four were cleared of his shocking death, no one's been able to fill the gossip void quite like he could. The problem is no one has the facts.<br /><br />Until now. <br /><br />This time it's not an app, though—it's a game. <br /><br /><i>Truth or Dare.<\/i><br /><br /><b>Phoebe's<\/b> the first target. If you choose not to play, it's a truth. And hers is dark. <br /><br />Then comes <b>Maeve<\/b> and she should know better—always choose the dare. <br /><br />But by the time <b>Knox<\/b> is about to be tagged, things have gotten dangerous. The dares have become deadly, and if Maeve learned anything from Bronwyn last year, it's that they can't count on the police for help. Or protection.<br /><br />Simon's gone, but someone's determined to keep his legacy at Bayview High alive. And this time, there's a whole new set of rules.",
+                "authors": {
+                   "author": {
+                      "id": "15127507",
+                      "name": "Karen M. McManus",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1527617930p5/15127507.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1527617930p2/15127507.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/15127507.Karen_M_McManus",
+                      "average_rating": "4.04",
+                      "ratings_count": "257820",
+                      "text_reviews_count": "34900"
+                   }
+                },
+                "published": "2020",
+                "work": {
+                   "id": "64239187",
+                   "uri": "kca://work/amzn1.gr.work.v1.TzUKrApFVpoTKZzOLGo35w"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "3052617030",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sat Jun 27 09:46:05 -0700 2020",
+             "date_updated": "Sat Jun 27 09:46:06 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3413587719",
+             "link": "https://www.goodreads.com/review/show/3413587719",
+             "owned": "0"
+          },
+          {
+             "id": "3413586665",
+             "book": {
+                "id": 33413128,
+                "isbn": {
+                   "@nil": "true"
+                },
+                "isbn13": {
+                   "@nil": "true"
+                },
+                "text_reviews_count": 15240,
+                "uri": "kca://book/amzn1.gr.book.v1.uxmTo50CbXTASHYa63EA1Q",
+                "title": "Beartown (Beartown, #1)",
+                "title_without_series": "Beartown",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/33413128-beartown",
+                "num_pages": "432",
+                "format": [],
+                "edition_information": [],
+                "publisher": [],
+                "publication_day": "25",
+                "publication_year": "2017",
+                "publication_month": "4",
+                "average_rating": "4.25",
+                "ratings_count": "199868",
+                "description": "The #1 <i>New York Times<\/i> bestselling author of <i>A Man Called Ove<\/i> returns with a dazzling, profound novel about a small town with a big dream—and the price required to make it come true.<br /><br />People say Beartown is finished. A tiny community nestled deep in the forest, it is slowly losing ground to the ever encroaching trees. But down by the lake stands an old ice rink, built generations ago by the working men who founded this town. And in that ice rink is the reason people in Beartown believe tomorrow will be better than today. Their junior ice hockey team is about to compete in the national semi-finals, and they actually have a shot at winning. All the hopes and dreams of this place now rest on the shoulders of a handful of teenage boys.<br /><br />Being responsible for the hopes of an entire town is a heavy burden, and the semi-final match is the catalyst for a violent act that will leave a young girl traumatized and a town in turmoil. Accusations are made and, like ripples on a pond, they travel through all of Beartown, leaving no resident unaffected.<br /><br />Beartown explores the hopes that bring a small community together, the secrets that tear it apart, and the courage it takes for an individual to go against the grain. In this story of a small forest town, Fredrik Backman has found the entire world.",
+                "authors": {
+                   "author": {
+                      "id": "6485178",
+                      "name": "Fredrik Backman",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1493098924p5/6485178.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1493098924p2/6485178.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/6485178.Fredrik_Backman",
+                      "average_rating": "4.26",
+                      "ratings_count": "1113558",
+                      "text_reviews_count": "138663"
+                   }
+                },
+                "published": "2017",
+                "work": {
+                   "id": "54171514",
+                   "uri": "kca://work/amzn1.gr.work.v1.zG1ukm8WZ5_elMAa1xaBQA"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "3052615945",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sat Jun 27 09:45:17 -0700 2020",
+             "date_updated": "Sat Jun 27 09:45:17 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3413586665",
+             "link": "https://www.goodreads.com/review/show/3413586665",
+             "owned": "0"
+          },
+          {
+             "id": "3413586551",
+             "book": {
+                "id": 27406704,
+                "isbn": "1501142534",
+                "isbn13": "9781501142536",
+                "text_reviews_count": 8697,
+                "uri": "kca://book/amzn1.gr.book.v1.AfKBD4GtThl4Csc9kSQOGg",
+                "title": "Britt-Marie Was Here",
+                "title_without_series": "Britt-Marie Was Here",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460442061l/27406704._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460442061l/27406704._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/27406704-britt-marie-was-here",
+                "num_pages": "324",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Atria Books",
+                "publication_day": "3",
+                "publication_year": "2016",
+                "publication_month": "5",
+                "average_rating": "4.07",
+                "ratings_count": "87130",
+                "description": "Britt-Marie can’t stand mess. A disorganized cutlery drawer ranks high on her list of unforgivable sins. She is not one to judge others—no matter how ill-mannered, unkempt, or morally suspect they might be. It’s just that sometimes people interpret her helpful suggestions as criticisms, which is certainly not her intention. But hidden inside the socially awkward, fussy busybody is a woman who has more imagination, bigger dreams, and a warmer heart that anyone around her realizes.<br /><br />When Britt-Marie walks out on her cheating husband and has to fend for herself in the miserable backwater town of Borg—of which the kindest thing one can say is that it has a road going through it—she finds work as the caretaker of a soon-to-be demolished recreation center. The fastidious Britt-Marie soon finds herself being drawn into the daily doings of her fellow citizens, an odd assortment of miscreants, drunkards, layabouts. Most alarming of all, she’s given the impossible task of leading the supremely untalented children’s soccer team to victory. In this small town of misfits, can Britt-Marie find a place where she truly belongs?",
+                "authors": {
+                   "author": {
+                      "id": "6485178",
+                      "name": "Fredrik Backman",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1493098924p5/6485178.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1493098924p2/6485178.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/6485178.Fredrik_Backman",
+                      "average_rating": "4.26",
+                      "ratings_count": "1113558",
+                      "text_reviews_count": "138663"
+                   }
+                },
+                "published": "2016",
+                "work": {
+                   "id": "41818210",
+                   "uri": "kca://work/amzn1.gr.work.v1.tYLzhuOnvlHrdxyFE-x8_w"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "3052615826",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sat Jun 27 09:45:11 -0700 2020",
+             "date_updated": "Sat Jun 27 09:45:12 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3413586551",
+             "link": "https://www.goodreads.com/review/show/3413586551",
+             "owned": "0"
+          },
+          {
+             "id": "3413586444",
+             "book": {
+                "id": 23604559,
+                "isbn": "1501115065",
+                "isbn13": "9781501115066",
+                "text_reviews_count": 15429,
+                "uri": "kca://book/amzn1.gr.book.v1.Gfg2cQkVvC4Gwq_k3pIuaA",
+                "title": "My Grandmother Asked Me to Tell You She's Sorry",
+                "title_without_series": "My Grandmother Asked Me to Tell You She's Sorry",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461904020l/23604559._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461904020l/23604559._SX50_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/23604559-my-grandmother-asked-me-to-tell-you-she-s-sorry",
+                "num_pages": "372",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Atria Books",
+                "publication_day": "16",
+                "publication_year": "2015",
+                "publication_month": "6",
+                "average_rating": "4.05",
+                "ratings_count": "146216",
+                "description": "Elsa is seven years old and different. Her grandmother is seventy-seven years old and crazy, standing-on-the-balcony-firing-paintball-guns-at-men-who-want-to-talk-about-Jesus-crazy. She is also Elsa's best, and only, friend. At night Elsa takes refuge in her grandmother's stories, in the Land of Almost-Awake and the Kingdom of Miamas where everybody is different and nobody needs to be normal.<br /><br />When Elsa's grandmother dies and leaves behind a series of letters apologizing to people she has wronged, Elsa's greatest adventure begins. Her grandmother's letters lead her to an apartment building full of drunks, monsters, attack dogs, and totally ordinary old crones, but also to the truth about fairytales and kingdoms and a grandmother like no other.",
+                "authors": {
+                   "author": {
+                      "id": "6485178",
+                      "name": "Fredrik Backman",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1493098924p5/6485178.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1493098924p2/6485178.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/6485178.Fredrik_Backman",
+                      "average_rating": "4.26",
+                      "ratings_count": "1113558",
+                      "text_reviews_count": "138663"
+                   }
+                },
+                "published": "2015",
+                "work": {
+                   "id": "25003015",
+                   "uri": "kca://work/amzn1.gr.work.v1.wUplM-yT2WHJXx2kuDDEhA"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "3052615725",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sat Jun 27 09:45:07 -0700 2020",
+             "date_updated": "Sat Jun 27 09:45:08 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3413586444",
+             "link": "https://www.goodreads.com/review/show/3413586444",
+             "owned": "0"
+          },
+          {
+             "id": "3337967568",
+             "book": {
+                "id": 11921687,
+                "isbn": "0446538523",
+                "isbn13": "9780446538527",
+                "text_reviews_count": 141,
+                "uri": "kca://book/amzn1.gr.book.v1.z7zwI-bW5ja4aRflbC-wLg",
+                "title": "Living Beyond Your Feelings: Controlling Emotions So They Don't Control You",
+                "title_without_series": "Living Beyond Your Feelings: Controlling Emotions So They Don't Control You",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344263920l/11921687._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344263920l/11921687._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/11921687-living-beyond-your-feelings",
+                "num_pages": "288",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "FaithWords",
+                "publication_day": "6",
+                "publication_year": "2011",
+                "publication_month": "9",
+                "average_rating": "4.32",
+                "ratings_count": "2170",
+                "description": "The average person has 70,000 thoughts every day, and many of those thoughts trigger a corresponding emotion. No wonder so many of us often feel like we're controlled by our emotions. Our lives would be much improved if <i>we <\/i>controlled<i> them<\/i>.<br /><br />In <b>LIVING BEYOND YOUR FEELINGS<\/b>, Joyce Meyer examines the gamut of feelings that human beings experience. She discusses the way that the brain processes and stores memories and thoughts, and then - emotion by emotion - she explains how we can manage our reactions to those emotions. By doing that, she gives the reader a toolbox for managing the way we react to the onslaught of feelings that can wreak havoc on our lives.<br /><br />In this book, Meyer blends the wisdom of the Bible with the latest psychological research and discusses: the 4 personality types and their influence on one's outlook, the impact of stress on physical and emotional health, the power of memories, the influence of words on emotions, anger &amp; resentment, sadness, loss &amp; grief, fear, guilt &amp; regret, the power of replacing reactions with pro-actions, and the benefits of happiness.",
+                "authors": {
+                   "author": {
+                      "id": "8352",
+                      "name": "Joyce Meyer",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1481653205p5/8352.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1481653205p2/8352.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/8352.Joyce_Meyer",
+                      "average_rating": "4.34",
+                      "ratings_count": "124688",
+                      "text_reviews_count": "6705"
+                   }
+                },
+                "published": "2011",
+                "work": {
+                   "id": "16881789",
+                   "uri": "kca://work/amzn1.gr.work.v1.u4kP1u6aZnJhrO-i8om9ow"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2977832311",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Fri May 15 08:53:40 -0700 2020",
+             "date_updated": "Fri May 15 08:53:40 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3337967568",
+             "link": "https://www.goodreads.com/review/show/3337967568",
+             "owned": "0"
+          },
+          {
+             "id": "3337966212",
+             "book": {
+                "id": 95186,
+                "isbn": "0802142818",
+                "isbn13": "9780802142818",
+                "text_reviews_count": 3433,
+                "uri": "kca://book/amzn1.gr.book.v1.QrSbLB-qwzCmn-DlaYJYNg",
+                "title": "The Inheritance of Loss",
+                "title_without_series": "The Inheritance of Loss",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327909065l/95186._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327909065l/95186._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/95186.The_Inheritance_of_Loss",
+                "num_pages": "357",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Grove Press",
+                "publication_day": [],
+                "publication_year": "2005",
+                "publication_month": [],
+                "average_rating": "3.43",
+                "ratings_count": "46762",
+                "description": "In a crumbling, isolated house at the foot of Mount Kanchenjunga in the Himalayas lives an embittered judge who wants only to retire in peace, when his orphaned granddaughter, Sai, arrives on his doorstep. The judge’s cook watches over her distractedly, for his thoughts are often on his son, Biju, who is hopscotching from one gritty New York restaurant to another. Kiran Desai’s brilliant novel, published to huge acclaim, is a story of joy and despair. Her characters face numerous choices that majestically illuminate the consequences of colonialism as it collides with the modern world.",
+                "authors": {
+                   "author": {
+                      "id": "31428",
+                      "name": "Kiran Desai",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1232769561p5/31428.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1232769561p2/31428.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/31428.Kiran_Desai",
+                      "average_rating": "3.43",
+                      "ratings_count": "52115",
+                      "text_reviews_count": "4388"
+                   }
+                },
+                "published": "2005",
+                "work": {
+                   "id": "563837",
+                   "uri": "kca://work/amzn1.gr.work.v1.smTgDDfwE4XI-GvX0d0utQ"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2977830981",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Fri May 15 08:52:42 -0700 2020",
+             "date_updated": "Fri May 15 08:52:43 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3337966212",
+             "link": "https://www.goodreads.com/review/show/3337966212",
+             "owned": "0"
+          },
+          {
+             "id": "3337840717",
+             "book": {
+                "id": 60931,
+                "isbn": "0807083690",
+                "isbn13": "9780807083697",
+                "text_reviews_count": 8692,
+                "uri": "kca://book/amzn1.gr.book.v1.8ADWKKgfM1iJXX0y6jJPhg",
+                "title": "Kindred",
+                "title_without_series": "Kindred",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339423248l/60931._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339423248l/60931._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/60931.Kindred",
+                "num_pages": "287",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Beacon Press",
+                "publication_day": "1",
+                "publication_year": "2004",
+                "publication_month": "2",
+                "average_rating": "4.25",
+                "ratings_count": "90060",
+                "description": "The first science fiction written by a black woman, <i>Kindred<\/i> has become a cornerstone of black American literature. This combination of slave memoir, fantasy, and historical fiction is a novel of rich literary complexity. Having just celebrated her 26th birthday in 1976 California, Dana, an African-American woman, is suddenly and inexplicably wrenched through time into antebellum Maryland. After saving a drowning white boy there, she finds herself staring into the barrel of a shotgun and is transported back to the present just in time to save her life. During numerous such time-defying episodes with the same young man, she realizes the challenge she’s been given...",
+                "authors": {
+                   "author": {
+                      "id": "29535",
+                      "name": "Octavia E. Butler",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1242244143p5/29535.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1242244143p2/29535.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/29535.Octavia_E_Butler",
+                      "average_rating": "4.17",
+                      "ratings_count": "330054",
+                      "text_reviews_count": "33603"
+                   }
+                },
+                "published": "2004",
+                "work": {
+                   "id": "1049657",
+                   "uri": "kca://work/amzn1.gr.work.v1.ZwJ5X3F8p4fPyEqoQvJQPg"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2977705574",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Fri May 15 07:21:13 -0700 2020",
+             "date_updated": "Fri May 15 07:21:14 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3337840717",
+             "link": "https://www.goodreads.com/review/show/3337840717",
+             "owned": "0"
+          },
+          {
+             "id": "3300166848",
+             "book": {
+                "id": 1381,
+                "isbn": "0143039954",
+                "isbn13": "9780143039952",
+                "text_reviews_count": 6803,
+                "uri": "kca://book/amzn1.gr.book.v1.Tad6LahKhXeOMHx3tYGiYA",
+                "title": "The Odyssey",
+                "title_without_series": "The Odyssey",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390173285l/1381._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390173285l/1381._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/1381.The_Odyssey",
+                "num_pages": "541",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Penguin Classics",
+                "publication_day": "30",
+                "publication_year": "2006",
+                "publication_month": "11",
+                "average_rating": "3.77",
+                "ratings_count": "844643",
+                "description": "<i>Sing to me of the man, Muse, the man of twists and turns<br />driven time and again off course, once he had plundered<br />the hallowed heights of Troy.<\/i><br /><br />So begins Robert Fagles' magnificent translation of the <i>Odyssey<\/i>, which Jasper Griffin in <i>The New York Times Review of Books<\/i> hails as \"a distinguished achievement.\"<br /><br />If the <i>Iliad<\/i> is the world's greatest war epic, then the <i>Odyssey<\/i> is literature's grandest evocation of everyman's journey though life. Odysseus' reliance on his wit and wiliness for survival in his encounters with divine and natural forces, during his ten-year voyage home to Ithaca after the Trojan War, is at once a timeless human story and an individual test of moral endurance. <br /><br />In the myths and legends that are retold here, Fagles has captured the energy and poetry of Homer's original in a bold, contemporary idiom, and given us an <i>Odyssey<\/i> to read aloud, to savor, and to treasure for its sheer lyrical mastery.<br /><br />Renowned classicist Bernard Knox's superb Introduction and textual commentary provide new insights and background information for the general reader and scholar alike, intensifying the strength of Fagles' translation.<br /><br />This is an <i>Odyssey<\/i> to delight both the classicist and the public at large, and to captivate a new generation of Homer's students.<br /><br />--<br /><br />Robert Fagles, winner of the PEN/Ralph Manheim Medal for Translation and a 1996 Academy Award in Literature from the American Academy of Arts and Letters, presents us with Homer's best-loved and most accessible poem in a stunning new modern-verse translation.",
+                "authors": {
+                   "author": {
+                      "id": "903",
+                      "name": "Homer",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1390672749p5/903.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1390672749p2/903.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/903.Homer",
+                      "average_rating": "3.81",
+                      "ratings_count": "1279028",
+                      "text_reviews_count": "21307"
+                   }
+                },
+                "published": "2006",
+                "work": {
+                   "id": "3356006",
+                   "uri": "kca://work/amzn1.gr.work.v1.tFbTWd1rKv0r2pQLhiOtfA"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2941241053",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sat Apr 25 00:01:21 -0700 2020",
+             "date_updated": "Sat Apr 25 00:01:21 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3300166848",
+             "link": "https://www.goodreads.com/review/show/3300166848",
+             "owned": "0"
+          },
+          {
+             "id": "3272497018",
+             "book": {
+                "id": 18512,
+                "isbn": {
+                   "@nil": "true"
+                },
+                "isbn13": {
+                   "@nil": "true"
+                },
+                "text_reviews_count": 6002,
+                "uri": "kca://book/amzn1.gr.book.v1.ZWXJoMYdLdq3vEPyH3ZNWw",
+                "title": "The Return of the King (The Lord of the Rings, #3)",
+                "title_without_series": "The Return of the King",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520258755l/18512._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520258755l/18512._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/18512.The_Return_of_the_King",
+                "num_pages": "404",
+                "format": "Mass Market Paperback",
+                "edition_information": "Media Tie-In Edition",
+                "publisher": "Del Rey",
+                "publication_day": [],
+                "publication_year": "2003",
+                "publication_month": [],
+                "average_rating": "4.53",
+                "ratings_count": "658951",
+                "description": "Alternate cover edition <a href=\"https://www.goodreads.com/book/show/13573878-the-return-of-the-king\" rel=\"nofollow\">here<\/a>.<br /><br />The Companions of the Ring have become involved in separate adventures as the quest continues. Aragorn, revealed as the hidden heir of the ancient Kings of the West, joined with the Riders of Rohan against the forces of Isengard, and took part in the desperate victory of the Hornburg. Merry and Pippin, captured by Orcs, escaped into Fangorn Forest and there encountered the Ents. Gandalf returned, miraculously, and defeated the evil wizard, Saruman. Meanwhile, Sam and Frodo progressed towards Mordor to destroy the Ring, accompanied by SmEagol--Gollum, still obsessed by his 'precious'. After a battle with the giant spider, Shelob, Sam left his master for dead; but Frodo is still alive--in the hands of the Orcs. And all the time the armies of the Dark Lord are massing. J.R.R. Tolkien's great work of imaginative fiction has been labeled both a heroic romance and a classic fantasy fiction. By turns comic and homely, epic and diabolic, the narrative moves through countless changes of scene and character in an imaginary world which is totally convincing in its detail.",
+                "authors": {
+                   "author": {
+                      "id": "656983",
+                      "name": "J.R.R. Tolkien",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1564399522p5/656983.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1564399522p2/656983.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien",
+                      "average_rating": "4.33",
+                      "ratings_count": "8284511",
+                      "text_reviews_count": "127380"
+                   }
+                },
+                "published": "2003",
+                "work": {
+                   "id": "2964424",
+                   "uri": "kca://work/amzn1.gr.work.v1.WjActQznJYvOQEivNkpoJQ"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2914599303",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Fri Apr 10 01:44:36 -0700 2020",
+             "date_updated": "Fri Apr 10 01:44:37 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3272497018",
+             "link": "https://www.goodreads.com/review/show/3272497018",
+             "owned": "0"
+          },
+          {
+             "id": "3262742713",
+             "book": {
+                "id": 6900,
+                "isbn": "0751529818",
+                "isbn13": "9780751529814",
+                "text_reviews_count": 21511,
+                "uri": "kca://book/amzn1.gr.book.v1.HYlfDM7QTPV1OEJGJmRHtw",
+                "title": "Tuesdays with Morrie",
+                "title_without_series": "Tuesdays with Morrie",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423763749l/6900._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423763749l/6900._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie",
+                "num_pages": "210",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Warner",
+                "publication_day": [],
+                "publication_year": "2000",
+                "publication_month": [],
+                "average_rating": "4.11",
+                "ratings_count": "760339",
+                "description": "Maybe it was a grandparent, or a teacher or a colleague. Someone older, patient and wise, who understood you when you were young and searching, and gave you sound advice to help you make your way through it. For Mitch Albom, that person was Morrie Schwartz, his college professor from nearly twenty years ago.<br /><br />Maybe, like Mitch, you lost track of this mentor as you made your way, and the insights faded. Wouldn't you like to see that person again, ask the bigger questions that still haunt you? <br /><br />Mitch Albom had that second chance. He rediscovered Morrie in the last months of the older man's life. Knowing he was dying of ALS - or motor neurone disease - Mitch visited Morrie in his study every Tuesday, just as they used to back in college. Their rekindled relationship turned into one final 'class': lessons in how to live.",
+                "authors": {
+                   "author": {
+                      "id": "2331",
+                      "name": "Mitch Albom",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1368640552p5/2331.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1368640552p2/2331.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/2331.Mitch_Albom",
+                      "average_rating": "4.04",
+                      "ratings_count": "1752976",
+                      "text_reviews_count": "83614"
+                   }
+                },
+                "published": "2000",
+                "work": {
+                   "id": "1995335",
+                   "uri": "kca://work/amzn1.gr.work.v1.zIj_sWs9NizBbBF7FwK_mQ"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2905048871",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": "Graziela Santos",
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sat Apr 04 10:25:06 -0700 2020",
+             "date_updated": "Sat Apr 04 10:25:32 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3262742713",
+             "link": "https://www.goodreads.com/review/show/3262742713",
+             "owned": "0"
+          },
+          {
+             "id": "3251596968",
+             "book": {
+                "id": 14866,
+                "isbn": "0743496728",
+                "isbn13": "9780743496728",
+                "text_reviews_count": 13697,
+                "uri": "kca://book/amzn1.gr.book.v1.0gVYUQLoV__e-IZRs6nHGQ",
+                "title": "Nineteen Minutes",
+                "title_without_series": "Nineteen Minutes",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/14866.Nineteen_Minutes",
+                "num_pages": "440",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Atria Books",
+                "publication_day": "5",
+                "publication_year": "2007",
+                "publication_month": "3",
+                "average_rating": "4.13",
+                "ratings_count": "296773",
+                "description": "In nineteen minutes, you can mow the front lawn, color your hair, watch a third of a hockey game. In nineteen minutes, you can bake scones or get a tooth filled by a dentist; you can fold laundry for a family of five....In nineteen minutes, you can stop the world, or you can just jump off it. In nineteen minutes, you can get revenge. <br /><br />Sterling is a small, ordinary New Hampshire town where nothing ever happens -- until the day its complacency is shattered by a shocking act of violence. In the aftermath, the town's residents must not only seek justice in order to begin healing but also come to terms with the role they played in the tragedy. For them, the lines between truth and fiction, right and wrong, insider and outsider have been obscured forever. Josie Cormier, the teenage daughter of the judge sitting on the case, could be the state's best witness, but she can't remember what happened in front of her own eyes. And as the trial progresses, fault lines between the high school and the adult community begin to show, destroying the closest of friendships and families. <br /><br />Nineteen Minutes is New York Times bestselling author Jodi Picoult's most raw, honest, and important novel yet. Told with the straightforward style for which she has become known, it asks simple questions that have no easy answers: Can your own child become a mystery to you? What does it mean to be different in our society? Is it ever okay for a victim to strike back? And who -- if anyone -- has the right to judge someone else?",
+                "authors": {
+                   "author": {
+                      "id": "7128",
+                      "name": "Jodi Picoult",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1586468459p5/7128.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1586468459p2/7128.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/7128.Jodi_Picoult",
+                      "average_rating": "3.98",
+                      "ratings_count": "3667948",
+                      "text_reviews_count": "218332"
+                   }
+                },
+                "published": "2007",
+                "work": {
+                   "id": "3375915",
+                   "uri": "kca://work/amzn1.gr.work.v1.B4c77xYdn0XYaG3OMVOtGg"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2894154114",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": "Graziela Santos",
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sat Mar 28 18:35:24 -0700 2020",
+             "date_updated": "Fri May 15 08:52:10 -0700 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3251596968",
+             "link": "https://www.goodreads.com/review/show/3251596968",
+             "owned": "1"
+          },
+          {
+             "id": "3217297057",
+             "book": {
+                "id": 7865083,
+                "isbn": "039333869X",
+                "isbn13": "9780393338690",
+                "text_reviews_count": 928,
+                "uri": "kca://book/amzn1.gr.book.v1.pz6e88DT6SkZRMUggZ8T_Q",
+                "title": "Liar's Poker",
+                "title_without_series": "Liar's Poker",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/7865083-liar-s-poker",
+                "num_pages": "310",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "W. W. Norton  Company",
+                "publication_day": "15",
+                "publication_year": "2010",
+                "publication_month": "3",
+                "average_rating": "4.15",
+                "ratings_count": "78869",
+                "description": "<strong>The time was the 1980s. The place was Wall Street. The game was called Liar’s Poker.<\/strong> <br /><br />Michael Lewis was fresh out of Princeton and the London School of Economics when he landed a job at Salomon Brothers, one of Wall Street’s premier investment firms. During the next three years, Lewis rose from callow trainee to bond salesman, raking in millions for the firm and cashing in on a modern-day gold rush. <em>Liar’s Poker<\/em> is the culmination of those heady, frenzied years—a behind-the-scenes look at a unique and turbulent time in American business. From the frat-boy camaraderie of the forty-first-floor trading room to the killer instinct that made ambitious young men gamble everything on a high-stakes game of bluffing and deception, here is Michael Lewis’s knowing and hilarious insider’s account of an unprecedented era of greed, gluttony, and outrageous fortune. .",
+                "authors": {
+                   "author": {
+                      "id": "776",
+                      "name": "Michael   Lewis",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1317447168p5/776.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1317447168p2/776.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
+                      "average_rating": "4.15",
+                      "ratings_count": "590708",
+                      "text_reviews_count": "33161"
+                   }
+                },
+                "published": "2010",
+                "work": {
+                   "id": "855103",
+                   "uri": "kca://work/amzn1.gr.work.v1.nxYudDJ2r7rERKYGSL6uAg"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2859802201",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Tue Mar 03 23:37:30 -0800 2020",
+             "date_updated": "Tue Mar 03 23:37:30 -0800 2020",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/3217297057",
+             "link": "https://www.goodreads.com/review/show/3217297057",
+             "owned": "0"
+          },
+          {
+             "id": "2923741200",
+             "book": {
+                "id": 18816603,
+                "isbn": "0345544927",
+                "isbn13": "9780345544926",
+                "text_reviews_count": 13248,
+                "uri": "kca://book/amzn1.gr.book.v1.wH45UaoX9Txh91xgHDD0SA",
+                "title": "Leaving Time",
+                "title_without_series": "Leaving Time",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394487223l/18816603._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394487223l/18816603._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/18816603-leaving-time",
+                "num_pages": "398",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Ballantine Books",
+                "publication_day": "14",
+                "publication_year": "2014",
+                "publication_month": "10",
+                "average_rating": "3.97",
+                "ratings_count": "136285",
+                "description": "For more than a decade, Jenna Metcalf has never stopped thinking about her mother, Alice, who mysteriously disappeared in the wake of a tragic accident. Refusing to believe she was abandoned, Jenna searches for her mother regularly online and pores over the pages of Alice’s old journals. A scientist who studied grief among elephants, Alice wrote mostly of her research among the animals she loved, yet Jenna hopes the entries will provide a clue to her mother’s whereabouts.<br /><br />As Jenna’s memories dovetail with the events in her mother’s journals, the story races to a mesmerizing finish.",
+                "authors": {
+                   "author": {
+                      "id": "7128",
+                      "name": "Jodi Picoult",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1586468459p5/7128.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1586468459p2/7128.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/7128.Jodi_Picoult",
+                      "average_rating": "3.98",
+                      "ratings_count": "3667948",
+                      "text_reviews_count": "218332"
+                   }
+                },
+                "published": "2014",
+                "work": {
+                   "id": "26757264",
+                   "uri": "kca://work/amzn1.gr.work.v1.f6JM383yUvhkdYXb74kYuA"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2570025284",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": "Graziela Santos",
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sun Aug 04 08:37:51 -0700 2019",
+             "date_updated": "Sun Aug 04 08:38:23 -0700 2019",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/2923741200",
+             "link": "https://www.goodreads.com/review/show/2923741200",
+             "owned": "0"
+          },
+          {
+             "id": "2835444960",
+             "book": {
+                "id": 70401,
+                "isbn": "0140042598",
+                "isbn13": "9780140042597",
+                "text_reviews_count": 10854,
+                "uri": "kca://book/amzn1.gr.book.v1.4Kp7WbUcfXEGIRMrEy8NIw",
+                "title": "On the Road",
+                "title_without_series": "On the Road",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413588576l/70401._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413588576l/70401._SX50_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/70401.On_the_Road",
+                "num_pages": "307",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Penguin Books",
+                "publication_day": "1",
+                "publication_year": "1976",
+                "publication_month": "1",
+                "average_rating": "3.62",
+                "ratings_count": "339953",
+                "description": "When Jack Kerouac’s On the Road first appeared in 1957, readers instantly felt the beat of a new literary rhythm. A fictionalised account of his own journeys across America with his friend Neal Cassady, Kerouac’s beatnik odyssey captured the soul of a generation and changed the landscape of American fiction for ever.<br /><br />Influenced by Jack London and Thomas Wolfe, Kerouac always wanted to be a writer, but his true voice only emerged when he wrote about his own experiences in On the Road. Leaving a broken marriage behind him, Sal Paradise (Kerouac) joins Dean Moriarty (Cassady), a tearaway and former reform school boy, on a series of journeys that takes them from New York to San Francisco, then south to Mexico. Hitching rides and boarding buses, they enter a world of hobos and drifters, fruit-pickers and migrant families, small towns and wide horizons. Adrift from conventional society, they experience America in the raw: a place where living is hard, but ‘life is holy and every moment is precious’.<br /><br />With its smoky, jazz-filled atmosphere and its restless, yearning spirit of adventure, On the Road left its mark on the culture of the late 20th century, influencing countless books, films and songs. Kerouac’s prose is remarkable both for its colloquial swing and for the pure lyricism inspired by the American landscape – ‘the backroads, the black-tar roads that curve among the mournful rivers like Susquehanna, Monongahela, old Potomac and Monocacy’. This Folio Society edition is illustrated with evocative photographs of Kerouac and the landscapes of 1950s America. Now acknowledged as a modern classic, On the Road remains a thrilling and poignant story of the road less travelled.",
+                "authors": {
+                   "author": {
+                      "id": "1742",
+                      "name": "Jack Kerouac",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1544568646p5/1742.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1544568646p2/1742.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/1742.Jack_Kerouac",
+                      "average_rating": "3.71",
+                      "ratings_count": "576321",
+                      "text_reviews_count": "24161"
+                   }
+                },
+                "published": "1976",
+                "work": {
+                   "id": "1701188",
+                   "uri": "kca://work/amzn1.gr.work.v1.H7Tml5q5hSRfA76VIXR3sA"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2481939234",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sun May 26 20:17:05 -0700 2019",
+             "date_updated": "Sun May 26 20:17:06 -0700 2019",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/2835444960",
+             "link": "https://www.goodreads.com/review/show/2835444960",
+             "owned": "0"
+          },
+          {
+             "id": "2835444365",
+             "book": {
+                "id": 332613,
+                "isbn": {
+                   "@nil": "true"
+                },
+                "isbn13": {
+                   "@nil": "true"
+                },
+                "text_reviews_count": 8031,
+                "uri": "kca://book/amzn1.gr.book.v1.ZtiLvS3CkoJK00H6aVDF4A",
+                "title": "One Flew Over the Cuckoo's Nest",
+                "title_without_series": "One Flew Over the Cuckoo's Nest",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516211014l/332613._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516211014l/332613._SX50_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest",
+                "num_pages": "325",
+                "format": "Mass Market Paperback",
+                "edition_information": "US / CAN",
+                "publisher": "Signet",
+                "publication_day": "1",
+                "publication_year": "1963",
+                "publication_month": "2",
+                "average_rating": "4.19",
+                "ratings_count": "618604",
+                "description": "Tyrannical Nurse Ratched rules her ward in an Oregon State mental hospital with a strict and unbending routine, unopposed by her patients, who remain cowed by mind-numbing medication and the threat of electric shock therapy. But her regime is disrupted by the arrival of McMurphy – the swaggering, fun-loving trickster with a devilish grin who resolves to oppose her rules on behalf of his fellow inmates. His struggle is seen through the eyes of Chief Bromden, a seemingly mute half-Indian patient who understands McMurphy's heroic attempt to do battle with the powers that keep them imprisoned. Ken Kesey's extraordinary first novel is an exuberant, ribald and devastatingly honest portrayal of the boundaries between sanity and madness.",
+                "authors": {
+                   "author": {
+                      "id": "7285",
+                      "name": "Ken Kesey",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1363273797p5/7285.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1363273797p2/7285.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/7285.Ken_Kesey",
+                      "average_rating": "4.19",
+                      "ratings_count": "661511",
+                      "text_reviews_count": "12343"
+                   }
+                },
+                "published": "1963",
+                "work": {
+                   "id": "2100252",
+                   "uri": "kca://work/amzn1.gr.work.v1.1Fu2yCahxwhs8jrHcypR3Q"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2481938558",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sun May 26 20:16:26 -0700 2019",
+             "date_updated": "Sun May 26 20:16:27 -0700 2019",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/2835444365",
+             "link": "https://www.goodreads.com/review/show/2835444365",
+             "owned": "0"
+          },
+          {
+             "id": "2835443602",
+             "book": {
+                "id": 89724,
+                "isbn": "0143039970",
+                "isbn13": "9780143039976",
+                "text_reviews_count": 9589,
+                "uri": "kca://book/amzn1.gr.book.v1.5JfOh10WggZR7bS9pAJgnA",
+                "title": "We Have Always Lived in the Castle",
+                "title_without_series": "We Have Always Lived in the Castle",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415357189l/89724._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415357189l/89724._SX50_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/89724.We_Have_Always_Lived_in_the_Castle",
+                "num_pages": "146",
+                "format": "Paperback",
+                "edition_information": "Penguin Classics Deluxe Edition (US/CAN)",
+                "publisher": "Penguin Books",
+                "publication_day": "31",
+                "publication_year": "2006",
+                "publication_month": "10",
+                "average_rating": "3.99",
+                "ratings_count": "109723",
+                "description": "My name is Mary Katherine Blackwood. I am eighteen years old, and I live with my sister Constance. I have often thought that with any luck at all I could have been born a werewolf, because the two middle fingers on both my hands are the same length, but I have had to be content with what I had. I dislike washing myself, and dogs, and noise, I like my sister Constance, and Richard Plantagenet, and Amanita phalloides, the death-cap mushroom. Everyone else in my family is dead...",
+                "authors": {
+                   "author": {
+                      "id": "13388",
+                      "name": "Shirley Jackson",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1550251468p5/13388.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1550251468p2/13388.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/13388.Shirley_Jackson",
+                      "average_rating": "3.95",
+                      "ratings_count": "426690",
+                      "text_reviews_count": "38290"
+                   }
+                },
+                "published": "2006",
+                "work": {
+                   "id": "847007",
+                   "uri": "kca://work/amzn1.gr.work.v1.mF-1IU1hKM5EXq6Xcapv8w"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2481937717",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sun May 26 20:15:41 -0700 2019",
+             "date_updated": "Sun May 26 20:15:41 -0700 2019",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/2835443602",
+             "link": "https://www.goodreads.com/review/show/2835443602",
+             "owned": "0"
+          },
+          {
+             "id": "2835442070",
+             "book": {
+                "id": 160149,
+                "isbn": "0141182342",
+                "isbn13": "9780141182346",
+                "text_reviews_count": 893,
+                "uri": "kca://book/amzn1.gr.book.v1.28BjbxtrTS5wljeQ8bx9hA",
+                "title": "The Call of Cthulhu and Other Weird Stories",
+                "title_without_series": "The Call of Cthulhu and Other Weird Stories",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320618937l/160149._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320618937l/160149._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories",
+                "num_pages": "420",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Penguin Classics",
+                "publication_day": "1",
+                "publication_year": "1999",
+                "publication_month": "10",
+                "average_rating": "4.22",
+                "ratings_count": "35893",
+                "description": "This collection spans Lovecraft’s literary career, and charts the development of his ‘cosmicist’ philosophy; the belief that behind the veil of our blinkered everyday lives lies another reality, too terrible for the human mind to comprehend. In stories written in the gothic tradition, narrators recount their descent into madness and despair. Through their investigations into the unexplained, they tug at the thin threads that separate our world from another of indescribable horror. ‘“ Great God! I never dreamed of THIS!”’ screams occultist Harley Warren in ‘The Statement of Randolph Carter’, as he begs his companion to bury him alive. Another early piece, ‘The Outsider’ – a tragic and emotive evocation of loneliness and desolation – follows a man’s escape from his castle in a desperate search for human contact, but the loathsome truth he discovers destroys his mind.<br /><br />In later tales, such as the iconic ‘The Call of Cthulhu’ and ‘The Whisperer in Darkness’, Lovecraft reaches into the cosmos, bridging the divide between horror and science fiction. The extra-terrestrial ‘gods’ and cursed histories that would emerge from these stories now form the cornerstones of Lovecraft’s unique mythology: the Cthulhu Mythos. This fictional universe, built in large part by his friend and most ardent supporter August Derleth, has in the years since been reimagined in myriad forms, and continues to act as a haunted playground for countless illustrators, fans and authors.<br /><br />This edition, based on its sister limited edition, marries Lovecraft’s best-known fiction with two modern masters of the macabre, the acclaimed artist Dan Hillier and author Alan Moore. In his beautifully crafted new preface, Moore finds Lovecraft at once at odds with and integral to the time in which he lived: ‘the improbable embodiment of an estranged world in transition’. Yet, despite his prejudices and parochialisms, he ‘possessed a voice and a perspective both unique in modern literature’.<br /><br />Hillier’s six mesmerising, portal-like illustrations embrace the alien realities that lurk among the gambrel roofs of Lovecraft’s landscapes. By splicing Victorian portraits and lithographs with cosmic and Lovecraftian symbolism, each piece – like the stories themselves – pulls apart the familiar to reveal what lies beneath.<br /><br />The edition itself shimmers with Lovecraft’s ‘unknown colours’, bound in purple and greens akin to both the ocean depths and mysteries from outer space. The cover is embossed with a mystical design by Hillier, while a monstrous eye stares blankly from the slipcase.<br /><br />Content:<br />1. Dagon<br />2. The Statement of Randolph Carter<br />3. Facts Concerning the Late Arthur Jermyn and His Family<br />4. Celephaïs<br />5. Nyarlathotep<br />6. The Picture in the House<br />7. The Outsider<br />8. Herbert West -- Reanimator<br />9. The Hound<br />10. The Rats in the Walls<br />11. The Festival<br />12. He<br />13. Cool Air<br />14. The Call of Cthulhu<br />15. The Colour Out of Space<br />16. The Whisperer in Darkness<br />17. The Shadow Over Innsmouth<br />18. The Haunter of the Dark",
+                "authors": {
+                   "author": {
+                      "id": "9494",
+                      "name": "H.P. Lovecraft",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1299165714p5/9494.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1299165714p2/9494.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/9494.H_P_Lovecraft",
+                      "average_rating": "4.05",
+                      "ratings_count": "536220",
+                      "text_reviews_count": "29674"
+                   }
+                },
+                "published": "1999",
+                "work": {
+                   "id": "6750943",
+                   "uri": "kca://work/amzn1.gr.work.v1.6n8EiFxh8DOaYtgGDqi4mA"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2481936153",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Sun May 26 20:14:04 -0700 2019",
+             "date_updated": "Sun May 26 20:14:05 -0700 2019",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/2835442070",
+             "link": "https://www.goodreads.com/review/show/2835442070",
+             "owned": "0"
+          },
+          {
+             "id": "2808720359",
+             "book": {
+                "id": 621739,
+                "isbn": "0142407089",
+                "isbn13": "9780142407080",
+                "text_reviews_count": 760,
+                "uri": "kca://book/amzn1.gr.book.v1.OOUay4EI-h7Je9fXq2m6sQ",
+                "title": "Millions of Cats",
+                "title_without_series": "Millions of Cats",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318725166l/621739._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318725166l/621739._SX50_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/621739.Millions_of_Cats",
+                "num_pages": "32",
+                "format": "Paperback",
+                "edition_information": [],
+                "publisher": "Picture Puffin Books",
+                "publication_day": "5",
+                "publication_year": "2006",
+                "publication_month": "10",
+                "average_rating": "4.09",
+                "ratings_count": "19774",
+                "description": "Once upon a time there was an old man and an old woman who were very lonely. They decided to get a cat, but when the old man went out searching, he found not one cat, but millions and billions and trillions of cats! Unable to decide which one would be the best pet, he brought them all home. How the old couple came to have just one cat to call their own is a classic tale that has been loved for generations. Winner of a Newbery Honor, this collector's edition—featuring a heavy interior stock, spot gloss and embossing on the cover, and a thread-sewn binding—will bring this beloved tale to a whole new generation of readers.",
+                "authors": {
+                   "author": {
+                      "id": "5051196",
+                      "name": "Wanda Gág",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1558125688p5/5051196.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1558125688p2/5051196.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/5051196.Wanda_G_g",
+                      "average_rating": "4.11",
+                      "ratings_count": "25034",
+                      "text_reviews_count": "1169"
+                   }
+                },
+                "published": "2006",
+                "work": {
+                   "id": "3012947",
+                   "uri": "kca://work/amzn1.gr.work.v1.BkDuSQbwharHiLadWFWXiQ"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2454751169",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": "Laine Flores",
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Fri May 03 22:57:53 -0700 2019",
+             "date_updated": "Fri May 03 22:58:59 -0700 2019",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/2808720359",
+             "link": "https://www.goodreads.com/review/show/2808720359",
+             "owned": "0"
+          },
+          {
+             "id": "2780310768",
+             "book": {
+                "id": 8686068,
+                "isbn": "0312375069",
+                "isbn13": "9780312375065",
+                "text_reviews_count": 2627,
+                "uri": "kca://book/amzn1.gr.book.v1.Ex4YOA9y5aQ31Y_8duCuWQ",
+                "title": "The Devotion of Suspect X (Detective Galileo, #1)",
+                "title_without_series": "The Devotion of Suspect X",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312051518l/8686068._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312051518l/8686068._SY75_.jpg",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/8686068-the-devotion-of-suspect-x",
+                "num_pages": "298",
+                "format": "Hardcover",
+                "edition_information": [],
+                "publisher": "Minotaur Books",
+                "publication_day": "1",
+                "publication_year": "2011",
+                "publication_month": "2",
+                "average_rating": "4.13",
+                "ratings_count": "29503",
+                "description": "Yasuko lives a quiet life, working in a Tokyo bento shop, a good mother to her only child. But when her ex-husband appears at her door without warning one day, her comfortable world is shattered. <br /><br />When Detective Kusanagi of the Tokyo Police tries to piece together the events of that day, he finds himself confronted by the most puzzling, mysterious circumstances he has ever investigated. Nothing quite makes sense, and it will take a genius to understand the genius behind this particular crime...",
+                "authors": {
+                   "author": {
+                      "id": "117366",
+                      "name": "Keigo Higashino",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1289592746p5/117366.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1289592746p2/117366.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/117366.Keigo_Higashino",
+                      "average_rating": "4.04",
+                      "ratings_count": "93052",
+                      "text_reviews_count": "13122"
+                   }
+                },
+                "published": "2011",
+                "work": {
+                   "id": "13558363",
+                   "uri": "kca://work/amzn1.gr.work.v1.IYqRI8kHY2GY9a0TEQVy7A"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2425922206",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": "Laine Flores",
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Tue Apr 09 05:33:51 -0700 2019",
+             "date_updated": "Tue Apr 09 05:34:22 -0700 2019",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/2780310768",
+             "link": "https://www.goodreads.com/review/show/2780310768",
+             "owned": "0"
+          },
+          {
+             "id": "2708398115",
+             "book": {
+                "id": 33004340,
+                "isbn": {
+                   "@nil": "true"
+                },
+                "isbn13": {
+                   "@nil": "true"
+                },
+                "text_reviews_count": 152,
+                "uri": "kca://book/amzn1.gr.book.v1.zhPGXNiFtOZzxl-Ijq3zgQ",
+                "title": "Millionaire Success Habits: The Gateway To Wealth & Prosperity",
+                "title_without_series": "Millionaire Success Habits: The Gateway To Wealth & Prosperity",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": [],
+                "link": "https://www.goodreads.com/book/show/33004340-millionaire-success-habits",
+                "num_pages": "240",
+                "format": [],
+                "edition_information": [],
+                "publisher": [],
+                "publication_day": [],
+                "publication_year": [],
+                "publication_month": [],
+                "average_rating": "4.10",
+                "ratings_count": "1444",
+                "description": "Millionaire Success Habits is a book designed with one purpose in mind; and that is to take you from where you are in life, to where you want to be in life, by using easy to implement \"Success Habits\" into your daily routine. <br /> <br />This book is not about adding more time to your day. It is about replacing those things that are not serving your future with success habits designs specifically to assist you on your journey to that better you. <br /> <br />This book has broken down the walls of complexity and created simple success recipes for you to quickly implement in your life to reach the level of wealth and abundance you desire. <br /> <br />\"In this incredibly inspiring book, Dean Graziosi gives us the key to greater happiness, wealth and freedom. A must-read.\" - Brendon Burchard <br /> <br />\"Dean Graziosi has the unique ability to take what others make so complicated and boil it down to a recipe for success that anyone can follow.\" - Larry King <br /> <br />\"In this book there are amazing recipes to get the life you want faster, easier and with less stress. Read it and live rich!\" - David Bach",
+                "authors": {
+                   "author": {
+                      "id": "637379",
+                      "name": "Dean Graziosi",
+                      "role": [],
+                      "image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1512548559p5/637379.jpg"
+                      },
+                      "small_image_url": {
+                         "@nophoto": "false",
+                         "#text": "https://images.gr-assets.com/authors/1512548559p2/637379.jpg"
+                      },
+                      "link": "https://www.goodreads.com/author/show/637379.Dean_Graziosi",
+                      "average_rating": "4.05",
+                      "ratings_count": "1693",
+                      "text_reviews_count": "197"
+                   }
+                },
+                "published": [],
+                "work": {
+                   "id": "53648931",
+                   "uri": "kca://work/amzn1.gr.work.v1.QcCIiZuCMWHFtVELJwIiHA"
+                }
+             },
+             "rating": "0",
+             "votes": "0",
+             "spoiler_flag": "false",
+             "spoilers_state": "none",
+             "shelves": {
+                "shelf": {
+                   "@exclusive": "true",
+                   "@id": "50581000",
+                   "@name": "to-read",
+                   "@review_shelf_id": "2352754765",
+                   "@sortable": "true"
+                }
+             },
+             "recommended_for": [],
+             "recommended_by": [],
+             "started_at": [],
+             "read_at": [],
+             "date_added": "Fri Feb 08 21:39:07 -0800 2019",
+             "date_updated": "Fri Feb 08 21:39:08 -0800 2019",
+             "read_count": "0",
+             "body": [],
+             "comments_count": "0",
+             "url": "https://www.goodreads.com/review/show/2708398115",
+             "link": "https://www.goodreads.com/review/show/2708398115",
+             "owned": "0"
+          }
+       ]
+    }
+ }
